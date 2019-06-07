@@ -12,6 +12,6 @@ public class WisherTest {
 
     @Test
     public void wishReturnsHappyNewYear() {
-        assertThat(greeting.wish()).isEqualTo("Happy New Year!");
+        assertThat(greeting.wish()).isEqualTo("Happy New Year Arno!");
     }
 }
